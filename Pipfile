@@ -12,6 +12,7 @@ pandas = "*"
 scipy = "*"
 networkx = "==2.*"
 empiricaldist = "*"
+rasterio = "*"
 
 [dev-packages]
 
